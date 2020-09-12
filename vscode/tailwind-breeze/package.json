@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-breeze",
+  "displayName": "Tailwind Breeze",
+  "description": "A soothing light theme based on Tailwind CSS default color scheme.",
+  "version": "2.2.1",
+  "publisher": "Praveen Puglia",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.svg",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tailwind Breeze",
+        "uiTheme": "vs",
+        "path": "themes/tailwind-breeze.json"
+      }
+    ]
+  }
+}
