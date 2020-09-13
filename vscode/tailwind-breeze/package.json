@@ -12,7 +12,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "https://raw.githubusercontent.com/praveenpuglia/tailwind-breeze/master/assets/tailwind-breeze.png",
+  "icon": "logo.png",
   "contributes": {
     "themes": [
       {
