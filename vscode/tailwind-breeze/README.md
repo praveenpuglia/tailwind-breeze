@@ -4,8 +4,9 @@ A soothing light theme based on Tailwind CSS default color scheme.
 
 ## Installation
 
-```sh
-cp -R . ~/.vscode/extensions/tailwind-breeze
-```
+- Install from [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=praveenpuglia.tailwind-breeze)
 
-After this, `Reload Window` in VS Code & you should see Tailwind Breeze should be in extensions.
+## Screenshots
+
+![](./screenshots/1.png)
+![](./screenshots/2.png)
