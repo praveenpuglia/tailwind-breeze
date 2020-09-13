@@ -3,14 +3,15 @@
   "displayName": "Tailwind Breeze",
   "description": "A soothing light theme based on Tailwind CSS default color scheme.",
   "version": "2.2.1",
-  "publisher": "Praveen Puglia",
+  "publisher": "praveenpuglia",
+  "repository": "https://github.com/praveenpuglia/tailwind-breeze",
   "engines": {
     "vscode": "^1.14.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "icon.svg",
+  "icon": "https://raw.githubusercontent.com/praveenpuglia/tailwind-breeze/master/assets/tailwind-breeze.png",
   "contributes": {
     "themes": [
       {
