@@ -75,7 +75,7 @@
     "tab.inactiveBackground": "#EDF2F7",
     "tab.inactiveForeground": "#718096",
     "tab.unfocusedActiveForeground": "#a0aec0",
-    "tab.unfocusedInactiveForeground": "#edf2f7",
+    "tab.unfocusedInactiveForeground": "#718096",
     "tab.hoverBackground": "#ffffff",
     "tab.unfocusedHoverBackground": "#edf2f7",
     "editor.background": "#ffffff",
